@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\BOCAR DIACK\Desktop\BMD ISE2\ISE2_2024-2025\SEMESTRE 1\MACHINE_LEARNING\PROJET\VENV
+set VIRTUAL_ENV=C:\Users\BOCAR DIACK\Desktop\car_price_predict\VENV
 
 if not defined PROMPT set PROMPT=$P$G
 
