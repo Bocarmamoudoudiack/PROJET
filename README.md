@@ -14,8 +14,7 @@ Dans ce projet, nous allons prédire le prix des voitures d’occasion à l’ai
 
 ## WebApp
 * Le lien de l'application:
-https://ucppredict.herokuapp.com/
+https://projet-machine-learning.onrender.com/
 
-* If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Used Car Price Prediction.ipynb" file
 
 
